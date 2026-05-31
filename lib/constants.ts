@@ -16,6 +16,7 @@ export const navLinks = [
   { label: "Biz haqimizda", href: "#haqimizda" },
   { label: "Yo'nalishlar", href: "#yonalishlar" },
   { label: "Litsenziya", href: "#litsenziya" },
+  { label: "Ma'muriyat", href: "/mamuriyat" },
   { label: "Galereya", href: "#galereya" },
   { label: "Qabul", href: "#qabul" },
   { label: "Aloqa", href: "#aloqa" },
@@ -60,7 +61,7 @@ export const programs: Program[] = [
     duration: "3 yillik",
     subtitle: "Umumiy amaliyot hamshirasi",
     description:
-      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 3 yil etib belgilanadi. Bu guruhlarda kasb doirasida tanlangan kvalifikatsiyalarni muvaffaqiyatli o'zlashtirgan shaxslarga belgilangan namunadagi diplom beriladi va mazkur diplom bilan shu kasb bo'yicha mehnat bozorida ishlash huquqiga ega bo'ladi. Egallanmagan kvalifikatsiyalarni qayta o'zlashtirishga ruxsat beriladi va mazkur kvalifikatsiyani muvaffaqiyatli o'zlashtirganlarga belgilangan tartibda diplom beriladi.",
+      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 3 yil etib belgilanadi. Bu guruhla[...]",
     professionCode: "50910203 — Hamshiralik ishi",
     qualifications: ["Umumiy amaliyot hamshirasi"],
     admissionRequirements:
@@ -73,7 +74,7 @@ export const programs: Program[] = [
     duration: "2 yillik",
     subtitle: "Tibbiyot, maktab va maktabgacha ta'lim tashkiloti hamda fizioterapevtik xonalar hamshirasi",
     description:
-      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 2 yil etib belgilanadi. Bu guruhlarda kasb doirasida tanlangan kvalifikatsiyalarni muvaffaqiyatli o'zlashtirgan shaxslarga belgilangan namunadagi diplom beriladi va mazkur diplom bilan shu kasb hamda tegishli kvalifikatsiyalar bo'yicha mehnat bozorida ishlash huquqiga ega bo'ladi. Egallanmagan kvalifikatsiyalarni qayta o'zlashtirishga ruxsat beriladi va mazkur kvalifikatsiyani muvaffaqiyatli o'zlashtirganlarga belgilangan tartibda diplom beriladi.",
+      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 2 yil etib belgilanadi. Bu guruhla[...]",
     professionCode: "40910203 — Hamshiralik ishi",
     qualifications: [
       "Tibbiyot hamshirasi",
@@ -90,7 +91,7 @@ export const programs: Program[] = [
     duration: "3 yillik",
     subtitle: "Farmatsevt",
     description:
-      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 3 yil etib belgilanadi. Bu guruhlarda kasb doirasida tanlangan kvalifikatsiyalarni muvaffaqiyatli o'zlashtirgan shaxslarga belgilangan namunadagi diplom beriladi va mazkur diplom bilan shu kasb bo'yicha mehnat bozorida farmatsevtika sohasida ishlash huquqiga ega bo'ladi. Egallanmagan kvalifikatsiyalarni qayta o'zlashtirishga ruxsat beriladi va mazkur kvalifikatsiyani muvaffaqiyatli o'zlashtirganlarga belgilangan tartibda diplom beriladi.",
+      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 3 yil etib belgilanadi. Bu guruhla[...]",
     professionCode: "50910401 — Farmatsiya",
     qualifications: ["Farmatsevt assistenti"],
     admissionRequirements:
@@ -103,7 +104,7 @@ export const programs: Program[] = [
     duration: "3 yillik",
     subtitle: "Feldsher",
     description:
-      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 3 yil etib belgilanadi. Bu guruhlarda kasb doirasida tanlangan kvalifikatsiyalarni muvaffaqiyatli o'zlashtirgan shaxslarga belgilangan namunadagi diplom beriladi va mazkur diplom bilan shu kasb bo'yicha mehnat bozorida (birlamchi tibbiyot-sanitariya yordami va shoshilinch tibbiy yordam tizimida) ishlash huquqiga ega bo'ladi. Egallanmagan kvalifikatsiyalarni qayta o'zlashtirishga ruxsat beriladi va mazkur kvalifikatsiyani muvaffaqiyatli o'zlashtirganlarga belgilangan tartibda diplom beriladi.",
+      "Kamida umumiy o'rta ma'lumotga ega bo'lgan shaxslar hisobidan shakllantirilgan guruhlarda, tanlangan kvalifikatsiyalar sonidan kelib chiqib o'qish muddati 3 yil etib belgilanadi. Bu guruhl[...]",
     professionCode: "50910204 — Davolash ishi",
     qualifications: ["Feldsher"],
     admissionRequirements:
@@ -218,6 +219,7 @@ export const footerLinks = [
   { label: "Biz haqimizda", href: "#haqimizda" },
   { label: "Yo'nalishlar", href: "#yonalishlar" },
   { label: "Litsenziya", href: "#litsenziya" },
+  { label: "Ma'muriyat", href: "/mamuriyat" },
   { label: "Galereya", href: "#galereya" },
   { label: "Qabul", href: "#qabul" },
   { label: "Aloqa", href: "#aloqa" },
